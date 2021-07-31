@@ -1,4 +1,4 @@
-"# Used-Goods-Recycle-cum-Inquiry-Management-System" #
+# Used-Goods-Recycle-cum-Inquiry-Management-System #
 
 
 This web application intends to target college students and help them
